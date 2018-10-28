@@ -1,0 +1,8 @@
+_data/_report.txt
+_data/autograder_datasets.txt
+_data/KdTreeGenerator.java
+build/*
+dist/*
+src/visualizer/*
+out/*
+test/*
